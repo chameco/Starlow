@@ -3,7 +3,7 @@ starlow - chiptune music synthesis for game developers
 
 Installation
 ------
-make && sudo make install
+`make && sudo make install`
 
 Usage
 ------
