@@ -1,4 +1,4 @@
-starlow - chiptune music synthesis for game developers
+starlow - chiptune music synthesis
 ======
 
 Installation
